@@ -1,2 +1,2 @@
 # first-last-weekday
-This class check a date and says if it's the first/last monday,tuesday, wednesday, ... of the current month.
+This PHP class check a date and says if it's the first/last monday,tuesday, wednesday, ... of the current month. Also it says you the position (1st/2nd/3th/4th/5th) monday,tuesday, wednesday, ... of the current month. The idea is to check recurrent events that happen, for example, the first monday of April, the last sunday of August, the first and third tuesdays of all months  
